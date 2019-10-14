@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coin changing", "coin changing\coin changing.csproj", "{2D1DE6FC-3B03-493F-905F-07FDDD119E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangeUnitTests", "CoinChangeUnitTests\CoinChangeUnitTests.csproj", "{A7A0E103-2F2A-457F-A458-B83A45A67631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D1DE6FC-3B03-493F-905F-07FDDD119E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1DE6FC-3B03-493F-905F-07FDDD119E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1DE6FC-3B03-493F-905F-07FDDD119E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1DE6FC-3B03-493F-905F-07FDDD119E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A0E103-2F2A-457F-A458-B83A45A67631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A0E103-2F2A-457F-A458-B83A45A67631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A0E103-2F2A-457F-A458-B83A45A67631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A0E103-2F2A-457F-A458-B83A45A67631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DC6432C-D17B-4AB9-9024-62E2605269DF}
+	EndGlobalSection
+EndGlobal
